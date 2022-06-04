@@ -1,4 +1,4 @@
-# OnlyFans
+# OnlyFansScam
 
 You can use this on your Webserver just: <br>
 Clone the Repository <br>
