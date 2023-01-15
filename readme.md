@@ -3,7 +3,7 @@
 You can use this on your Webserver just: <br>
 Clone the Repository <br>
 
-``$ git clone https://github.com/MCmoderSD/OnlyFansScam/``
+`$ git clone https://github.com/MCmoderSD/OnlyFansScam/`
 <br>
 <br>
 <br>
